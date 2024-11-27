@@ -29,7 +29,7 @@ public class DeleteContactTests extends TestBase{
                 .setAddress(ContactData.ADDRESS)
                 .setDescription(ContactData.DESC));
         app.getContact().clickOnSafeButton();
-        app.getContact().clickOnSafeButton();
+      
 
     }
     @Test
